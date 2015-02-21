@@ -1,0 +1,12 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\Retranslyator\Retranslyator\bin\Debug\Retranslyator.exe.config
+c:\users\lenovo\documents\visual studio 2013\Projects\Retranslyator\Retranslyator\bin\Debug\Retranslyator.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\Retranslyator\Retranslyator\bin\Debug\Retranslyator.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\Retranslyator\Retranslyator\obj\Debug\Retranslyator.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2013\Projects\Retranslyator\Retranslyator\obj\Debug\Retranslyator.Form1.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\Retranslyator\Retranslyator\obj\Debug\Retranslyator.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\Retranslyator\Retranslyator\obj\Debug\Retranslyator.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2013\Projects\Retranslyator\Retranslyator\obj\Debug\Retranslyator.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\Retranslyator\Retranslyator\obj\Debug\Retranslyator.pdb
+C:\Users\Lenovo\Documents\GitHub\Ratranslyator\Retranslyator\bin\Debug\Retranslyator.exe.config
+C:\Users\Lenovo\Documents\GitHub\Ratranslyator\Retranslyator\obj\Debug\Retranslyator.exe
+C:\Users\Lenovo\Documents\GitHub\Ratranslyator\Retranslyator\obj\Debug\Retranslyator.pdb
