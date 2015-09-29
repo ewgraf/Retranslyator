@@ -6,4 +6,4 @@ VS2012 C#.
 
 Thanks to NAudio project for sipmle library to use and Diablo II artists for the awesome icon.
 
-ewgraf1893@mail.ru
+Feel free to contact via ewgraf1893@mail.ru
